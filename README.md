@@ -25,7 +25,7 @@ This is my **second C project** — a program that collects and displays student
 ```bash
 ./student_info
 ```
-##📸 Sample Output
+## 📸 Sample Output
 
 what is the name of your college: 
 AITS
